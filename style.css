@@ -13,7 +13,7 @@ header {
 h1 {
     color: white;
     font-size: 25px;
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', sans-serif;
 }
 
 nav {
@@ -25,7 +25,7 @@ a {
     align-items: center;
     color: white;
     font-size: 20px;
-    font-family: "Fira Code";
+    font-family: "Fira Code", sans-serif;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
