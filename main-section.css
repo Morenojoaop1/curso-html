@@ -16,3 +16,7 @@
 .main-section.-bdFirst {
     border-color: #2F80ED;
 }
+
+.main-section .sobre {
+    font-family: 'Fira Code', sans-serif; 
+}
