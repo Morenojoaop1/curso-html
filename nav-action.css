@@ -9,7 +9,7 @@ a {
     margin-right: 30px;
 }
 
-a::before{
+a.nav-action::before{
     content: "";
     background-color: #2F80ED;
     width: 10px;
