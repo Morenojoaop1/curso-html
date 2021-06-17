@@ -17,6 +17,10 @@
     border-color: #2F80ED;
 }
 
-.main-section .sobre {
-    font-family: 'Fira Code', sans-serif; 
+.main-section.-bgSecond {
+    background-color: #3A4042;
+}
+
+.main-section.-bdBlack {
+    border-color: black;
 }
