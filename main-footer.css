@@ -1,0 +1,16 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.main-footer.-bdBlack {
+    border-color: black;
+}
+
+.main-footer.-bgBlack {
+    background-color: black;
+}
+
